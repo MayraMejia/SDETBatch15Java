@@ -7,7 +7,7 @@ public class nestedLoop {
             System.out.println(" ");
             for (int j = 0; j <=4 ; j++) {
 
-                System.out.print(j+"  ");
+                System.out.print(j+" fin ");
 
                 
             }
